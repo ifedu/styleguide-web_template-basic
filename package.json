@@ -2,7 +2,7 @@
   "description": "",
   "name": "styleguide-web_template-basic",
   "private": true,
-  "version": "0.3.0",
+  "version": "0.1.0",
   "devDependencies": {
     "gulp": "^3.9.0"
   }
