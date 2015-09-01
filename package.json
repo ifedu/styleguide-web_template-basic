@@ -1,0 +1,9 @@
+{
+  "description": "",
+  "name": "guide-style-cleanly",
+  "private": true,
+  "version": "0.3.0",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
